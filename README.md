@@ -1,2 +1,2 @@
 # regenerate-ssh-host-keys
-Systemd service to regenerate SSH host keys
+Systemd unit to regenerate SSH host keys
