@@ -6,4 +6,5 @@ Systemd unit to regenerate SSH host keys
 
 ## Usage
 When you would like to regenerate the host keys simple enable the systemd unit. The keys will be regenerate on the next boot.  
+
 ```sudo systemctl enable regenerate-ssh-host-keys```
